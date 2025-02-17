@@ -88,3 +88,6 @@
 [11:22:56 | 17-02-2025] Last Claim Point: 16/02/2025 04:21:13
 [11:22:57 | 17-02-2025] ✅ Points claimed for 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e
 [11:22:58 | 17-02-2025] 🚨 Failed to start node for 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e: [object Object]
+[15:26:12 | 17-02-2025] Wallet Address: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e
+[15:26:12 | 17-02-2025] Node Points: 49789
+[15:26:12 | 17-02-2025] Last Claim Point: 17/02/2025 04:22:57
