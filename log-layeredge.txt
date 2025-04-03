@@ -1060,3 +1060,18 @@
 [08:40:04 | 03-04-2025] Wallet Address: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e
 [08:40:04 | 03-04-2025] Node Points: 927440
 [08:40:04 | 03-04-2025] Last Claim Point: 02/04/2025 01:41:21
+[11:25:17 | 03-04-2025] Wallet Address: 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e
+[11:25:17 | 03-04-2025] Node Points: 927440
+[11:25:17 | 03-04-2025] Last Claim Point: 02/04/2025 01:41:21
+[11:25:19 | 03-04-2025] ✅ Points claimed for 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e
+[11:25:19 | 03-04-2025] 🚨 Failed to start node for 0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x5e6378e2E73eEdA16a8990Ab87A80F0F644c405e/start</pre>
+</body>
+</html>
+
